@@ -17,6 +17,10 @@ gallery:
     image_path: /assets/images/munich-taxi-light.jpg
     alt: "placeholder image 1"
     title: "Christmas and cabs"
+  - url: /assets/images/munich-fog-city-center.jpg
+    image_path: /assets/images/munich-fog-city-center.jpg
+    alt: "placeholder image 1"
+    title: "Foggy city center of Munich"
   - url: /assets/images/hamburg-man-skateboard-by-port.jpg
     image_path: /assets/images/hamburg-man-skateboard-by-port.jpg
     alt: "placeholder image 1"

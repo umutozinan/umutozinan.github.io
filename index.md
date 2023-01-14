@@ -9,14 +9,14 @@ title: "<br/><br/><br/>Life simplified."
 excerpt: >
   Photography by Umut Özinan<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 gallery:
-  - url: /assets/images/munich-car-light.jpg
-    image_path: /assets/images/munich-car-light.jpg
-    alt: "placeholder image 1"
-    title: "Car lights"
   - url: /assets/images/munich-taxi-light.jpg
     image_path: /assets/images/munich-taxi-light.jpg
     alt: "placeholder image 1"
     title: "Christmas and cabs"
+  - url: /assets/images/munich-car-light.jpg
+    image_path: /assets/images/munich-car-light.jpg
+    alt: "placeholder image 1"
+    title: "Car lights"
   - url: /assets/images/hamburg-man-skateboard-by-port.jpg
     image_path: /assets/images/hamburg-man-skateboard-by-port.jpg
     alt: "placeholder image 1"

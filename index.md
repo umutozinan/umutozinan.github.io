@@ -38,7 +38,6 @@ gallery_vertical:
     image_path: /assets/images/munich-fog-city-center.jpg
     alt: "placeholder image 1"
     title: "Foggy city center of Munich"
-
 ---
 
 {% include gallery id="gallery" layout="third" %}

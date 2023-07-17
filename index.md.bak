@@ -62,6 +62,10 @@ gallery_vertical:
     image_path: /assets/images/bang-bang.jpg
     alt: "placeholder image 1"
     title: "Bang, bang"
+  - url: /assets/images/pink-and-green.jpg
+    image_path: /assets/images/pink-and-green.jpg
+    alt: "placeholder image 1"
+    title: "Pink and green"
 ---
 
 {% include gallery id="gallery" layout="third" %}

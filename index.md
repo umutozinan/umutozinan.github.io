@@ -69,4 +69,4 @@ gallery_vertical:
 ---
 
 {% include gallery id="gallery" layout="third" %}
-{% include gallery id="gallery_vertical" layout="fourth" %}
+{% include gallery id="gallery_vertical" layout="third" %}

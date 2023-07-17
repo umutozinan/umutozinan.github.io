@@ -33,27 +33,7 @@ gallery:
     image_path: /assets/images/delft-sunset-over-the-sea-two-people.jpg
     alt: "placeholder image 1"
     title: "Enjoy the sunset with someone"
-gallery_vertical:
-  - url: /assets/images/munich-fog-city-center.jpg
-    image_path: /assets/images/munich-fog-city-center.jpg
-    alt: "placeholder image 1"
-    title: "Foggy city center of Munich"
-  - url: /assets/images/colorful-bird.jpg
-    image_path: /assets/images/colorful-bird.jpg
-    alt: "placeholder image 1"
-    title: "Bird watching the horizon"
-  - url: /assets/images/carnival-lights.jpg
-    image_path: /assets/images/carnival-lights.jpg
-    alt: "placeholder image 1"
-    title: "Carnival lights"
-  - url: /assets/images/colors-of-vatican.jpg
-    image_path: /assets/images/colors-of-vatican.jpg
-    alt: "placeholder image 1"
-    title: "Colors of Vatican"
-  - url: /assets/images/save-water-drink-gin.jpg
-    image_path: /assets/images/save-water-drink-gin.jpg
-    alt: "placeholder image 1"
-    title: "Save water, drink gin"
+gallery_bnw:
   - url: /assets/images/matchstick-lips.jpg
     image_path: /assets/images/matchstick-lips.jpg
     alt: "placeholder image 1"
@@ -62,6 +42,27 @@ gallery_vertical:
     image_path: /assets/images/bang-bang.jpg
     alt: "placeholder image 1"
     title: "Bang, bang"
+gallery_vertical:
+  - url: /assets/images/munich-fog-city-center.jpg
+    image_path: /assets/images/munich-fog-city-center.jpg
+    alt: "placeholder image 1"
+    title: "Foggy city center of Munich"
+  - url: /assets/images/carnival-lights.jpg
+    image_path: /assets/images/carnival-lights.jpg
+    alt: "placeholder image 1"
+    title: "Carnival lights"
+  - url: /assets/images/save-water-drink-gin.jpg
+    image_path: /assets/images/save-water-drink-gin.jpg
+    alt: "placeholder image 1"
+    title: "Save water, drink gin"
+  - url: /assets/images/colors-of-vatican.jpg
+    image_path: /assets/images/colors-of-vatican.jpg
+    alt: "placeholder image 1"
+    title: "Colors of Vatican"
+  - url: /assets/images/colorful-bird.jpg
+    image_path: /assets/images/colorful-bird.jpg
+    alt: "placeholder image 1"
+    title: "Bird watching the horizon"
   - url: /assets/images/pink-and-green.jpg
     image_path: /assets/images/pink-and-green.jpg
     alt: "placeholder image 1"
@@ -69,4 +70,5 @@ gallery_vertical:
 ---
 
 {% include gallery id="gallery" layout="third" %}
-{% include gallery id="gallery_vertical" layout="third" %}
+{% include gallery id="gallery_bnw" layout="third" %}
+{% include gallery id="gallery_vertical" layout="fifth" %}

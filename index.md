@@ -42,10 +42,30 @@ gallery_vertical:
     image_path: /assets/images/colorful-bird.jpg
     alt: "placeholder image 1"
     title: "Bird watching the horizon"
+  - url: /assets/images/carnival-lights.jpg
+    image_path: /assets/images/carnival-lights.jpg
+    alt: "placeholder image 1"
+    title: "Carnival lights"
+  - url: /assets/images/colors-of-vatican.jpg
+    image_path: /assets/images/colors-of-vatican.jpg
+    alt: "placeholder image 1"
+    title: "Colors of Vatican"
   - url: /assets/images/save-water-drink-gin.jpg
     image_path: /assets/images/save-water-drink-gin.jpg
     alt: "placeholder image 1"
     title: "Save water, drink gin"
+  - url: /assets/images/matchstick-lips.jpg
+    image_path: /assets/images/matchstick-lips.jpg
+    alt: "placeholder image 1"
+    title: "Matchstick lips"
+  - url: /assets/images/bang-bang.jpg
+    image_path: /assets/images/bang-bang.jpg
+    alt: "placeholder image 1"
+    title: "Bang, bang"
+  - url: /assets/images/pink-and-green.jpg
+    image_path: /assets/images/pink-and-green.jpg
+    alt: "placeholder image 1"
+    title: "Pink and green"
 ---
 
 {% include gallery id="gallery" layout="third" %}

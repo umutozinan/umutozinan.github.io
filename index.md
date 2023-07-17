@@ -33,15 +33,19 @@ gallery:
     image_path: /assets/images/delft-sunset-over-the-sea-two-people.jpg
     alt: "placeholder image 1"
     title: "Enjoy the sunset with someone"
-  - url: /assets/images/delft-sunset-over-the-sea-two-people.jpg
-    image_path: /assets/images/delft-sunset-over-the-sea-two-people.jpg
-    alt: "placeholder image 1"
-    title: "Enjoy the sunset with someone"
 gallery_vertical:
+  - url: /assets/images/munich-fog-city-center.jpg
+    image_path: /assets/images/munich-fog-city-center.jpg
+    alt: "placeholder image 1"
+    title: "Foggy city center of Munich"
   - url: /assets/images/colorful-bird.jpg
     image_path: /assets/images/colorful-bird.jpg
     alt: "placeholder image 1"
     title: "Bird watching the horizon"
+  - url: /assets/images/save-water-drink-gin.jpg
+    image_path: /assets/images/save-water-drink-gin.jpg
+    alt: "placeholder image 1"
+    title: "Save water, drink gin"
 ---
 
 {% include gallery id="gallery" layout="third" %}

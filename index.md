@@ -38,23 +38,23 @@ gallery_bnw:
     image_path: /assets/images/matchstick-lips.jpg
     alt: "placeholder image 1"
     title: "Matchstick lips"
+  - url: /assets/images/munich-fog-city-center.jpg
+    image_path: /assets/images/munich-fog-city-center.jpg
+    alt: "placeholder image 1"
+    title: "Foggy city center of Munich"
   - url: /assets/images/bang-bang.jpg
     image_path: /assets/images/bang-bang.jpg
     alt: "placeholder image 1"
     title: "Bang, bang"
 gallery_vertical:
-  - url: /assets/images/munich-fog-city-center.jpg
-    image_path: /assets/images/munich-fog-city-center.jpg
-    alt: "placeholder image 1"
-    title: "Foggy city center of Munich"
-  - url: /assets/images/carnival-lights.jpg
-    image_path: /assets/images/carnival-lights.jpg
-    alt: "placeholder image 1"
-    title: "Carnival lights"
   - url: /assets/images/save-water-drink-gin.jpg
     image_path: /assets/images/save-water-drink-gin.jpg
     alt: "placeholder image 1"
     title: "Save water, drink gin"
+  - url: /assets/images/carnival-lights.jpg
+    image_path: /assets/images/carnival-lights.jpg
+    alt: "placeholder image 1"
+    title: "Carnival lights"
   - url: /assets/images/colors-of-vatican.jpg
     image_path: /assets/images/colors-of-vatican.jpg
     alt: "placeholder image 1"

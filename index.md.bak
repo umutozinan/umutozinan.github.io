@@ -43,10 +43,10 @@ gallery_bnw:
     alt: "placeholder image 1"
     title: "Bang, bang"
 gallery_vertical:
-  - url: /assets/images/munich-fog-city-center.jpg
-    image_path: /assets/images/munich-fog-city-center.jpg
-    alt: "placeholder image 1"
-    title: "Foggy city center of Munich"
+#  - url: /assets/images/munich-fog-city-center.jpg
+#    image_path: /assets/images/munich-fog-city-center.jpg
+#    alt: "placeholder image 1"
+#    title: "Foggy city center of Munich"
   - url: /assets/images/carnival-lights.jpg
     image_path: /assets/images/carnival-lights.jpg
     alt: "placeholder image 1"
@@ -71,4 +71,4 @@ gallery_vertical:
 
 {% include gallery id="gallery" layout="third" %}
 {% include gallery id="gallery_bnw" layout="third" %}
-{% include gallery id="gallery_vertical" layout="fifth" %}
+{% include gallery id="gallery_vertical" layout="third" %}

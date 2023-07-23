@@ -67,6 +67,10 @@ gallery_vertical:
     image_path: /assets/images/pink-and-green.jpg
     alt: "placeholder image 1"
     title: "Pink and green"
+  - url: /assets/images/tables-and-chairs.jpg
+    image_path: /assets/images/tables-and-chairs.jpg
+    alt: "placeholder image 1"
+    title: "Tables and chairs"
 ---
 
 {% include gallery id="gallery" layout="third" %}

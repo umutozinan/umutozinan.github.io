@@ -102,14 +102,14 @@ gallery_vertical:
     image_path: /assets/images/hi-little-guy.jpg
     alt: "placeholder image 1"
     title: "Hi, little guy"
-  - url: /assets/images/pink-and-green.jpg
-    image_path: /assets/images/pink-and-green.jpg
-    alt: "placeholder image 1"
-    title: "Pink and green"
-  - url: /assets/images/tables-and-chairs.jpg
-    image_path: /assets/images/tables-and-chairs.jpg
-    alt: "placeholder image 1"
-    title: "Tables and chairs"
+#  - url: /assets/images/pink-and-green.jpg
+#    image_path: /assets/images/pink-and-green.jpg
+#   alt: "placeholder image 1"
+#    title: "Pink and green"
+#  - url: /assets/images/tables-and-chairs.jpg
+#    image_path: /assets/images/tables-and-chairs.jpg
+#    alt: "placeholder image 1"
+#    title: "Tables and chairs"
   - url: /assets/images/monke.jpg
     image_path: /assets/images/monke.jpg
     alt: "placeholder image 1"

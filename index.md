@@ -114,14 +114,14 @@ gallery_vertical:
     image_path: /assets/images/monke.jpg
     alt: "placeholder image 1"
     title: "Monke"
-  - url: /assets/images/ratata.jpg
-    image_path: /assets/images/ratata.jpg
-    alt: "placeholder image 1"
-    title: "Ratata"
   - url: /assets/images/ying-yang.jpg
     image_path: /assets/images/ying-yang.jpg
     alt: "placeholder image 1"
     title: "Ying yang"
+  - url: /assets/images/ratata.jpg
+    image_path: /assets/images/ratata.jpg
+    alt: "placeholder image 1"
+    title: "Ratata"
   - url: /assets/images/alone-in-autumn.jpg
     image_path: /assets/images/alone-in-autumn.jpg
     alt: "placeholder image 1"

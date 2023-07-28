@@ -47,7 +47,7 @@ gallery_sunset:
     image_path: /assets/images/by-myself.jpg
     alt: "placeholder image 1"
     title: "By myself"
-  - url: /assets/images/grab-kapalle-sunset2jpg
+  - url: /assets/images/grab-kapalle-sunset2.jpg
     image_path: /assets/images/grab-kapalle-sunset2.jpg
     alt: "placeholder image 1"
     title: "Grabkapalle sunset2"
@@ -56,7 +56,14 @@ gallery_sunset:
     alt: "placeholder image 1"
     title: "Odawara"
 gallery_odaiba:
-
+  - url: /assets/images/Odaiba1.jpg
+    image_path: /assets/images/Odaiba1.jpg
+    alt: "placeholder image 1"
+    title: "Odaiba1"
+  - url: /assets/images/Odaiba2.jpg
+    image_path: /assets/images/Odaiba2.jpg
+    alt: "placeholder image 1"
+    title: "Odaiba2"
 gallery_bnw:
   - url: /assets/images/matchstick-lips.jpg
     image_path: /assets/images/matchstick-lips.jpg
@@ -107,10 +114,6 @@ gallery_vertical:
     image_path: /assets/images/hi-little-guy.jpg
     alt: "placeholder image 1"
     title: "Hi, little guy"
-  - url: /assets/images/ying-yang.jpg
-    image_path: /assets/images/ying-yang.jpg
-    alt: "placeholder image 1"
-    title: "Ying yang"
   - url: /assets/images/monke.jpg
     image_path: /assets/images/monke.jpg
     alt: "placeholder image 1"
@@ -119,6 +122,10 @@ gallery_vertical:
     image_path: /assets/images/ratata.jpg
     alt: "placeholder image 1"
     title: "Ratata"
+  - url: /assets/images/ying-yang.jpg
+    image_path: /assets/images/ying-yang.jpg
+    alt: "placeholder image 1"
+    title: "Ying yang"
   - url: /assets/images/alone-in-autumn.jpg
     image_path: /assets/images/alone-in-autumn.jpg
     alt: "placeholder image 1"
@@ -127,14 +134,6 @@ gallery_vertical:
     image_path: /assets/images/they-are-coming-for-you.jpg
     alt: "placeholder image 1"
     title: "They are coming for you"
-  - url: /assets/images/Odaiba1.jpg
-    image_path: /assets/images/Odaiba1.jpg
-    alt: "placeholder image 1"
-    title: "Odaiba1"
-  - url: /assets/images/Odaiba2.jpg
-    image_path: /assets/images/Odaiba2.jpg
-    alt: "placeholder image 1"
-    title: "Odaiba2"
   - url: /assets/images/just-chillin.jpg
     image_path: /assets/images/just-chillin.jpg
     alt: "placeholder image 1"

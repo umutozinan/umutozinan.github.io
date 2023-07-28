@@ -156,7 +156,7 @@ gallery_vertical:
 ---
 
 {% include gallery id="gallery" layout="third" %}
-{% include gallery id="gallery_grabkapelle" layout="second" %}
+{% include gallery id="gallery_grabkapelle" layout="half" %}
 {% include gallery id="gallery_sunset" layout="third" %}
 {% include gallery id="gallery_bnw" layout="third" %}
 {% include gallery id="gallery_vertical" layout="third" %}

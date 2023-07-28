@@ -98,6 +98,10 @@ gallery_vertical:
     image_path: /assets/images/bzz.jpg
     alt: "placeholder image 1"
     title: "Bzz"
+  - url: /assets/images/hi-little-guy.jpg
+    image_path: /assets/images/hi-little-guy.jpg
+    alt: "placeholder image 1"
+    title: "Hi, little guy"
   - url: /assets/images/pink-and-green.jpg
     image_path: /assets/images/pink-and-green.jpg
     alt: "placeholder image 1"
@@ -106,14 +110,6 @@ gallery_vertical:
     image_path: /assets/images/tables-and-chairs.jpg
     alt: "placeholder image 1"
     title: "Tables and chairs"
-  - url: /assets/images/grocery-shopping.jpg
-    image_path: /assets/images/grocery-shopping.jpg
-    alt: "placeholder image 1"
-    title: "Grocery shopping"
-  - url: /assets/images/hi-little-guy.jpg
-    image_path: /assets/images/hi-little-guy.jpg
-    alt: "placeholder image 1"
-    title: "Hi, little guy"
   - url: /assets/images/monke.jpg
     image_path: /assets/images/monke.jpg
     alt: "placeholder image 1"
@@ -138,6 +134,11 @@ gallery_vertical:
     image_path: /assets/images/just-chillin.jpg
     alt: "placeholder image 1"
     title: "Just Chillin"
+  - url: /assets/images/grocery-shopping.jpg
+    image_path: /assets/images/grocery-shopping.jpg
+    alt: "placeholder image 1"
+    title: "Grocery shopping"
+
   - url: /assets/images/captive.jpg
     image_path: /assets/images/captive.jpg
     alt: "placeholder image 1"

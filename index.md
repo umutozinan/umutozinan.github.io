@@ -55,6 +55,8 @@ gallery_sunset:
     image_path: /assets/images/Odawara.jpg
     alt: "placeholder image 1"
     title: "Odawara"
+gallery_odaiba:
+
 gallery_bnw:
   - url: /assets/images/matchstick-lips.jpg
     image_path: /assets/images/matchstick-lips.jpg
@@ -150,5 +152,6 @@ gallery_vertical:
 {% include gallery id="gallery" layout="third" %}
 {% include gallery id="gallery_grabkapelle" layout="half" %}
 {% include gallery id="gallery_sunset" layout="third" %}
+{% include gallery id="gallery_odaiba" layout="half" %}
 {% include gallery id="gallery_bnw" layout="third" %}
 {% include gallery id="gallery_vertical" layout="third" %}

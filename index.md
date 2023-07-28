@@ -85,6 +85,10 @@ gallery_vertical:
     image_path: /assets/images/colorful-bird.jpg
     alt: "placeholder image 1"
     title: "Bird watching the horizon"
+  - url: /assets/images/bzz.jpg
+    image_path: /assets/images/bzz.jpg
+    alt: "placeholder image 1"
+    title: "Bzz"
   - url: /assets/images/pink-and-green.jpg
     image_path: /assets/images/pink-and-green.jpg
     alt: "placeholder image 1"
@@ -117,10 +121,10 @@ gallery_vertical:
     image_path: /assets/images/alone-in-autumn.jpg
     alt: "placeholder image 1"
     title: "Alone in autumn"
-  - url: /assets/images/alone-in-autumn.jpg
-    image_path: /assets/images/alone-in-autumn.jpg
+  - url: /assets/images/they-are-coming-for-you.jpg
+    image_path: /assets/images/they-are-coming-for-you.jpg
     alt: "placeholder image 1"
-    title: "Alone in autumn"
+    title: "They are coming for you"
   - url: /assets/images/Odaiba1.jpg
     image_path: /assets/images/Odaiba1.jpg
     alt: "placeholder image 1"
@@ -133,22 +137,10 @@ gallery_vertical:
     image_path: /assets/images/just-chillin.jpg
     alt: "placeholder image 1"
     title: "Just Chillin"
-  - url: /assets/images/bzz.jpg
-    image_path: /assets/images/bzz.jpg
-    alt: "placeholder image 1"
-    title: "Bzz"
-  - url: /assets/images/grab-kapalle-sunset1.jpg
-    image_path: /assets/images/grab-kapalle-sunset1.jpg
-    alt: "placeholder image 1"
-    title: "Grabkapalle sunset1"
   - url: /assets/images/captive.jpg
     image_path: /assets/images/captive.jpg
     alt: "placeholder image 1"
     title: "Captive"
-  - url: /assets/images/they-are-coming-for-you.jpg
-    image_path: /assets/images/they-are-coming-for-you.jpg
-    alt: "placeholder image 1"
-    title: "They are coming for you"
   - url: /assets/images/3-birds-fly-into-a-line.jpg
     image_path: /assets/images/3-birds-fly-into-a-line.jpg
     alt: "placeholder image 1"

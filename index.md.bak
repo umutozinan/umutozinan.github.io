@@ -47,10 +47,10 @@ gallery_sunset:
     image_path: /assets/images/by-myself.jpg
     alt: "placeholder image 1"
     title: "By myself"
-  - url: /assets/images/Odaiba2.jpg
-    image_path: /assets/images/Odaiba2.jpg
+  - url: /assets/images/grab-kapalle-sunset2jpg
+    image_path: /assets/images/grab-kapalle-sunset2.jpg
     alt: "placeholder image 1"
-    title: "Odaiba2"
+    title: "Grabkapalle sunset2"
   - url: /assets/images/Odawara.jpg
     image_path: /assets/images/Odawara.jpg
     alt: "placeholder image 1"
@@ -125,6 +125,10 @@ gallery_vertical:
     image_path: /assets/images/Odaiba1.jpg
     alt: "placeholder image 1"
     title: "Odaiba1"
+  - url: /assets/images/Odaiba2.jpg
+    image_path: /assets/images/Odaiba2.jpg
+    alt: "placeholder image 1"
+    title: "Odaiba2"
   - url: /assets/images/just-chillin.jpg
     image_path: /assets/images/just-chillin.jpg
     alt: "placeholder image 1"
@@ -137,10 +141,6 @@ gallery_vertical:
     image_path: /assets/images/grab-kapalle-sunset1.jpg
     alt: "placeholder image 1"
     title: "Grabkapalle sunset1"
-  - url: /assets/images/grab-kapalle-sunset2jpg
-    image_path: /assets/images/grab-kapalle-sunset2.jpg
-    alt: "placeholder image 1"
-    title: "Grabkapalle sunset2"
   - url: /assets/images/captive.jpg
     image_path: /assets/images/captive.jpg
     alt: "placeholder image 1"

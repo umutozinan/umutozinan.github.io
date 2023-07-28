@@ -64,7 +64,6 @@ gallery_odaiba:
     image_path: /assets/images/Odaiba2.jpg
     alt: "placeholder image 1"
     title: "Odaiba2"
-
 gallery_bnw:
   - url: /assets/images/matchstick-lips.jpg
     image_path: /assets/images/matchstick-lips.jpg

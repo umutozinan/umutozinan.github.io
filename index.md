@@ -33,6 +33,28 @@ gallery:
     image_path: /assets/images/delft-sunset-over-the-sea-two-people.jpg
     alt: "placeholder image 1"
     title: "Enjoy the sunset with someone"
+gallery_grabkapelle:
+  - url: /assets/images/grab-kapalle-sunset1.jpg
+    image_path: /assets/images/grab-kapalle-sunset1.jpg
+    alt: "placeholder image 1"
+    title: "Grabkapalle sunset1"
+  - url: /assets/images/grab-kapalle-sunset3.jpg
+    image_path: /assets/images/grab-kapalle-sunset3.jpg
+    alt: "placeholder image 1"
+    title: "Grabkapalle sunset3"
+gallery_sunset:
+  - url: /assets/images/by-myself.jpg
+    image_path: /assets/images/by-myself.jpg
+    alt: "placeholder image 1"
+    title: "By myself"
+  - url: /assets/images/Odaiba2.jpg
+    image_path: /assets/images/Odaiba2.jpg
+    alt: "placeholder image 1"
+    title: "Odaiba2"
+  - url: /assets/images/Odawara.jpg
+    image_path: /assets/images/Odawara.jpg
+    alt: "placeholder image 1"
+    title: "Odawara"
 gallery_bnw:
   - url: /assets/images/matchstick-lips.jpg
     image_path: /assets/images/matchstick-lips.jpg
@@ -103,18 +125,6 @@ gallery_vertical:
     image_path: /assets/images/Odaiba1.jpg
     alt: "placeholder image 1"
     title: "Odaiba1"
-  - url: /assets/images/Odaiba2.jpg
-    image_path: /assets/images/Odaiba2.jpg
-    alt: "placeholder image 1"
-    title: "Odaiba2"
-  - url: /assets/images/Odawara.jpg
-    image_path: /assets/images/Odawara.jpg
-    alt: "placeholder image 1"
-    title: "Odawara"
-  - url: /assets/images/by-myself.jpg
-    image_path: /assets/images/by-myself.jpg
-    alt: "placeholder image 1"
-    title: "By myself"
   - url: /assets/images/just-chillin.jpg
     image_path: /assets/images/just-chillin.jpg
     alt: "placeholder image 1"
@@ -131,10 +141,6 @@ gallery_vertical:
     image_path: /assets/images/grab-kapalle-sunset2.jpg
     alt: "placeholder image 1"
     title: "Grabkapalle sunset2"
-  - url: /assets/images/grab-kapalle-sunset3.jpg
-    image_path: /assets/images/grab-kapalle-sunset3.jpg
-    alt: "placeholder image 1"
-    title: "Grabkapalle sunset3"
   - url: /assets/images/captive.jpg
     image_path: /assets/images/captive.jpg
     alt: "placeholder image 1"
@@ -150,5 +156,7 @@ gallery_vertical:
 ---
 
 {% include gallery id="gallery" layout="third" %}
+{% include gallery id="gallery_grabkapelle" layout="second" %}
+{% include gallery id="gallery_sunset" layout="third" %}
 {% include gallery id="gallery_bnw" layout="third" %}
 {% include gallery id="gallery_vertical" layout="third" %}
